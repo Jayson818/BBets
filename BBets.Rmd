@@ -1,6 +1,6 @@
 ---
 title: "Brownlows Bets"
-author: "Jason Briseno"
+author: "Jason briseno"
 output: 
   html_document:
     number_sections: true
